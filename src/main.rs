@@ -13,7 +13,7 @@ fn main() {
 } */
 
 //Nueva forma de implicit return 
-//En el caso de la una implementation el implicit return es mas abreviado 
+//En el caso de la una implementation el implicit return es mas abreviado ver el repositorio "implementations_methods"
 
 fn is_even(num: i32) -> bool {
     if num % 2 == 0 {
